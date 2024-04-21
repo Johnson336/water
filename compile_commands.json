@@ -1,0 +1,24 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/clang++",
+      "-c",
+      "-std=c++14",
+      "-Wall",
+      "-Wno-missing-braces",
+      "-Wunused-result",
+      "-D_DEFAULT_SOURCE",
+      "-O3",
+      "-I.",
+      "-I./include",
+      "-I/usr/local/include",
+      "-DPLATFORM_DESKTOP",
+      "-o",
+      "main.o",
+      "main.cpp"
+    ],
+    "directory": "/Users/colen/Documents/Code/cpp/water",
+    "file": "/Users/colen/Documents/Code/cpp/water/main.cpp",
+    "output": "/Users/colen/Documents/Code/cpp/water/main.o"
+  }
+]
